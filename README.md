@@ -3,7 +3,8 @@
 website inter, blended, coding 
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on job opportunities 
-- 📫 How to reach me https://w.a/916390184653
+- 📫 How to reach me 
+- https://wa.me/916390184653
 
 <!---
 abhi143sayma/abhi143sayma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
